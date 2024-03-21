@@ -1,4 +1,4 @@
-# Password-Cracking-TASK-3
+# Password-Cracking
 Performing password cracking using John the Ripper or Hashcat in kali linux. 
 Firstly creating a test zip file with a password the using zip2john command for generating hash string for the given password. 
 Second step would be to store that hash string to a different text file and now 
